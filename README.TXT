@@ -1,4 +1,3 @@
-PROJECT TITLE: SquareRunner
-PURPOSE OF PROJECT: Final project for Intro to Computer Science
-HOW TO START THIS PROJECT: Run Game.java
-AUTHORS: Ugo Dos Reis
+Square Runner by Ugo Dos Reis
+
+This platformer was my final project for Intro to Computer Science in Grade 10. It was fully implemented in Java. The purpose is to make it as far as possible without falling of the moving platforms. Going further unlocks styles for your character, which you are able to customize in the home screen. 
